@@ -20,7 +20,7 @@
     altere somente esta linha.
 */
 
-const dataProva = new Date("2026-10-18T13:00:00-03:00");
+const dataProva = new Date("2026-11-17T18:00:00-03:00");
 
 
 /* =====================================
